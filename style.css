@@ -30,10 +30,10 @@ main{
 
 .container .item div,
 .container .item p,
-.container .item h2{
+.container .item h1{
     margin-bottom: 8px;
 }
-.container .item h2{
+.container .item h1{
     color:hsl(0,0%,100%);
     line-height: 24px;
 }
@@ -58,8 +58,8 @@ main{
     grid-row: 1/ span 2;
 
 }
-.container .item3 h2,
-.container .item5 h2{
+.container .item3 h1,
+.container .item5 h1{
     color:hsl(217, 19%, 35%);
 }
 .container .item3 p,
